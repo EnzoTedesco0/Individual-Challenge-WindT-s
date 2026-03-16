@@ -1,6 +1,9 @@
 # Individual-Challenge-WindT-s
 Codes for a research grant challenge on wind turbines.
 
+[Dados dos geradores Kelmarsh](https://zenodo.org/records/16807551)
+
+
 Libraries used to run the codes properly: 
 -pandas
 -numpy
